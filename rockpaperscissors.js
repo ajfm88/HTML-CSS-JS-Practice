@@ -8,44 +8,45 @@ function computerPlay() {
         case 2:
             return 'Scissors';
     }
-    
 }
 
 
 function playerPlay() {
     let playerSelection = prompt("What will you choose (Rock, Paper or Scissors)?: ")
-    let playerSelection = playerSelection.toLowerCase();
-    let playerSelection = playerSelection.charAt(0).toUpperCase() + playerSelection.slice(1);
+    playerSelection = playerSelection.toLowerCase();
+    playerSelection = playerSelection.charAt(0).toUpperCase() + playerSelection.slice(1);
     return playerSelection;
 }
 
 
 function playRound(playerSelection, computerSelection) {
 
-    if (playerSelection === computerSelection) {
-        roundWinner = 'tie';
-    }
-
     if (
         (playerSelection === 'Rock' && computerSelection === 'Scissors') ||
         (playerSelection === 'Paper' && computerSelection === 'Rock') ||
         (playerSelection === 'Scissors' && computerSelection === 'Paper')
         ) {
-            roundWinner = 'player';
+            return 'player';
         }
 
-    if (
+    else if (
         (playerSelection === 'Rock' && computerSelection === 'Paper') ||
         (playerSelection === 'Paper' && computerSelection === 'Scissors') ||
         (playerSelection === 'Scissors' && computerSelection === 'Rock')
         ) {
-            roundWinner = 'computer';
+            return 'computer';
         }
+
+    return 'tie';
 }
 
 
 function game() {
-    for (let i = 0; i < 6; i++){
-        playRound();
+    for (let i = 0; i < 5; i++){
+        const playerMove = playerPlay();
+        const computerMove = computerPlay();
+        console.log( playRound(playerMove, computerMove) );
     }
 }
+
+game();
