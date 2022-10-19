@@ -1,23 +1,23 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 |  #  | Project         | Live Demo                                                                         |
 | :-: | --------------- | --------------------------------------------------------------------------------- |
-| 01  | Expanding Cards | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
-| 02  | Progress Steps | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
-| 03  | Rotating Navigation Animation | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 04  | Hidden Search Widget | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
-| 05  | Blurry Loading | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
-| 06  | Scroll Animation | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
-| 07  | Split Landing Page | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
-| 08  | Form Wave | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
-| 09  | Sound Board | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
-| 10  | Dad Jokes | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
-| 11  | Event Keycodes | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
-| 12  | FAQ Collapse | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
-| 13  | Random Choice Picker | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
-| 14  | Animated Navigation | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
-| 15  | Incrementing Counter | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
-| 16  | Drink Water | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
-| 17  | Movie App | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
+| 01  | [Expanding Cards](https://github.com/ajfm88/html-css-projects/tree/master/01-expanding-cards) | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
+| 02  | [Progress Steps](https://github.com/ajfm88/html-css-projects/tree/master/02-progress-steps) | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
+| 03  | [Rotating Navigation Animation](https://github.com/ajfm88/html-css-projects/tree/master/03-rotating-nav-animation) | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
+| 04  | [Hidden Search Widget](https://github.com/ajfm88/html-css-projects/tree/master/04-hidden-search-widget) | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
+| 05  | [Blurry Loading](https://github.com/ajfm88/html-css-projects/tree/master/05-blurry-loading) | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
+| 06  | [Scroll Animation](https://github.com/ajfm88/html-css-projects/tree/master/06-scroll-animation) | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
+| 07  | [Split Landing Page](https://github.com/ajfm88/html-css-projects/tree/master/07-split-landing-page) | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
+| 08  | [Form Wave](https://github.com/ajfm88/html-css-projects/tree/master/08-form-input-wave) | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
+| 09  | [Sound Board](https://github.com/ajfm88/html-css-projects/tree/master/09-sound-board) | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
+| 10  | [Dad Jokes](https://github.com/ajfm88/html-css-projects/tree/master/10-dad-jokes) | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
+| 11  | [Event Keycodes](https://github.com/ajfm88/html-css-projects/tree/master/11-event-keycodes) | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
+| 12  | [FAQ Collapse](https://github.com/ajfm88/html-css-projects/tree/master/12-faq-collapse) | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
+| 13  | [Random Choice Picker](https://github.com/ajfm88/html-css-projects/tree/master/13-random-choice-picker) | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
+| 14  | [Animated Navigation](https://github.com/ajfm88/html-css-projects/tree/master/14-animated-navigation) | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
+| 15  | [Incrementing Counter](https://github.com/ajfm88/html-css-projects/tree/master/15-incrementing-counter) | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
+| 16  | [Drink Water](https://github.com/ajfm88/html-css-projects/tree/master/16-drink-water) | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
+| 17  | [Movie App](https://github.com/ajfm88/html-css-projects/tree/master/17-movie-app) | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
 | 18  | Background Slider | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 | 19  | Theme Clock | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
 | 20  | Button Ripple Effect | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
