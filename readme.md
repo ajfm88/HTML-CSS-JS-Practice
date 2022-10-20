@@ -36,18 +36,18 @@
 | 33  | [Notes App](https://github.com/ajfm88/html-css-projects/tree/master/33-notes-app) | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 | 34  | [Animated Countdown](https://github.com/ajfm88/html-css-projects/tree/master/34-animated-countdown) | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
 | 35  | [Image Carousel](https://github.com/ajfm88/html-css-projects/tree/master/35-image-carousel) | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
-| 36  | Hoverboard | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
-| 37  | Pokédex | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
-| 38  | Mobile Tab Navigation | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
-| 39  | Password Strength Background | [Live Demo](https://50projects50days.com/projects/password-strength-background/)  |
-| 40  | 3D Background Boxes | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)           |
-| 41  | Verify Account UI | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
-| 42  | Live User Filter | [Live Demo](https://50projects50days.com/projects/live-user-filter/)              |
-| 43  | Feedback UI Design | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
-| 44  | Custom Range Slider | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
-| 45  | Netflix Mobile Navigation | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
-| 46  | Quiz App | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
-| 47  | Testimonial Box Switcher | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
-| 48  | Random Image Feed | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
-| 49  | ToDo List | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
-| 50  | Insect Catch Game | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
+| 36  | [Hoverboard](https://github.com/ajfm88/html-css-projects/tree/master/36-hoverboard) | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
+| 37  | [Pokédex](https://github.com/ajfm88/html-css-projects/tree/master/37-pokedex) | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
+| 38  | [Mobile Tab Navigation](https://github.com/ajfm88/html-css-projects/tree/master/38-mobile-tab-navigation) | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
+| 39  | [Password Strength Background](https://github.com/ajfm88/html-css-projects/tree/master/39-password-strength-background) | [Live Demo](https://50projects50days.com/projects/password-strength-background/)  |
+| 40  | [3D Background Boxes](https://github.com/ajfm88/html-css-projects/tree/master/40-3D-boxes-background) | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)           |
+| 41  | [Verify Account Ui](https://github.com/ajfm88/html-css-projects/tree/master/41-verify-account-ui) | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
+| 42  | [Live User Filter](https://github.com/ajfm88/html-css-projects/tree/master/42-live-user-filter) | [Live Demo](https://50projects50days.com/projects/live-user-filter/)              |
+| 43  | [Feedback UI Design](https://github.com/ajfm88/html-css-projects/tree/master/43-feedback-ui-design) | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
+| 44  | [Custom Range Slider](https://github.com/ajfm88/html-css-projects/tree/master/44-custom-range-slider) | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
+| 45  | [Netflix Mobile Navigation](https://github.com/ajfm88/html-css-projects/tree/master/45-netflix-mobile-navigation) | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
+| 46  | [Quiz App](https://github.com/ajfm88/html-css-projects/tree/master/46-quiz-app) | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
+| 47  | [Testimonial Box Switcher](https://github.com/ajfm88/html-css-projects/tree/master/47-testimonial-box-switcher) | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
+| 48  | [Random Image Feed](https://github.com/ajfm88/html-css-projects/tree/master/48-random-image-generator) | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
+| 49  | [ToDo List](https://github.com/ajfm88/html-css-projects/tree/master/49-todo-list) | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
+| 50  | [Insect Catch Game](https://github.com/ajfm88/html-css-projects/tree/master/50-insect-catch-game) | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
