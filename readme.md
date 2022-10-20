@@ -18,24 +18,24 @@
 | 15  | [Incrementing Counter](https://github.com/ajfm88/html-css-projects/tree/master/15-incrementing-counter) | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
 | 16  | [Drink Water](https://github.com/ajfm88/html-css-projects/tree/master/16-drink-water) | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 | 17  | [Movie App](https://github.com/ajfm88/html-css-projects/tree/master/17-movie-app) | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
-| 18  | Background Slider | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
-| 19  | Theme Clock | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
-| 20  | Button Ripple Effect | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
-| 21  | Drag N Drop | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
-| 22  | Drawing App | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
-| 23  | Kinetic Loader | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
-| 24  | Content Placeholder | [Live Demo](https://50projects50days.com/projects/content-placeholder/)           |
-| 25  | Sticky Navbar | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
-| 26  | Double Vertical Slider | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |
-| 27  | Toast Notification | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
-| 28  | GitHub Profiles | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
-| 29  | Double Click Heart | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
-| 30  | Auto Text Effect | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
-| 31  | Password Generator | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
-| 32  | Good Cheap Fast | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
-| 33  | Notes App | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
-| 34  | Animated Countdown | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
-| 35  | Image Carousel | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
+| 18  | [Background Slider](https://github.com/ajfm88/html-css-projects/tree/master/18-background-slider) | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
+| 19  | [Theme Clock](https://github.com/ajfm88/html-css-projects/tree/master/19-theme-clock) | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
+| 20  | [Button Ripple Effect](https://github.com/ajfm88/html-css-projects/tree/master/20-button-ripple-effect) | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
+| 21  | [Drag N Drop](https://github.com/ajfm88/html-css-projects/tree/master/21-drag-n-drop) | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
+| 22  | [Drawing App](https://github.com/ajfm88/html-css-projects/tree/master/22-drawing-app) | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
+| 23  | [Kinetic Loader](https://github.com/ajfm88/html-css-projects/tree/master/23-kinetic-loader) | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
+| 24  | [Content Placeholder](https://github.com/ajfm88/html-css-projects/tree/master/24-content-placeholder) | [Live Demo](https://50projects50days.com/projects/content-placeholder/)           |
+| 25  | [Sticky Navbar](https://github.com/ajfm88/html-css-projects/tree/master/25-sticky-navigation) | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
+| 26  | [Double Vertical Slider](https://github.com/ajfm88/html-css-projects/tree/master/26-double-vertical-slider) | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |
+| 27  | [Toast Notification](https://github.com/ajfm88/html-css-projects/tree/master/27-toast-notification) | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
+| 28  | [Github Profiles](https://github.com/ajfm88/html-css-projects/tree/master/28-github-profiles) | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
+| 29  | [Double Click Heart](https://github.com/ajfm88/html-css-projects/tree/master/29-double-click-heart) | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
+| 30  | [Auto Text Effect](https://github.com/ajfm88/html-css-projects/tree/master/30-auto-text-effect) | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
+| 31  | [Password Generator](https://github.com/ajfm88/html-css-projects/tree/master/31-password-generator) | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
+| 32  | [Good Cheap Fast](https://github.com/ajfm88/html-css-projects/tree/master/32-good-cheap-fast-checkboxes) | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
+| 33  | [Notes App](https://github.com/ajfm88/html-css-projects/tree/master/33-notes-app) | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
+| 34  | [Animated Countdown](https://github.com/ajfm88/html-css-projects/tree/master/34-animated-countdown) | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
+| 35  | [Image Carousel](https://github.com/ajfm88/html-css-projects/tree/master/35-image-carousel) | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
 | 36  | Hoverboard | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
 | 37  | Pokédex | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
 | 38  | Mobile Tab Navigation | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
