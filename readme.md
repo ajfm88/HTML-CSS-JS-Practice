@@ -42,7 +42,7 @@
 | 38  | [Mobile Tab Navigation](https://github.com/ajfm88/html-css-projects/tree/master/38-mobile-tab-navigation)               | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation)         |
 | 39  | [Password Strength Background](https://github.com/ajfm88/html-css-projects/tree/master/39-password-strength-background) | [Live Demo](https://50projects50days.com/projects/password-strength-background)  |
 | 40  | [3D Background Boxes](https://github.com/ajfm88/html-css-projects/tree/master/40-3D-boxes-background)                   | [Live Demo](https://50projects50days.com/projects/3d-background-boxes)           |
-| 41  | [Verify Account Ui](https://github.com/ajfm88/html-css-projects/tree/master/41-verify-account-ui)                       | [Live Demo](https://50projects50days.com/projects/verify-account-ui)             |
+| 41  | [Verify Account UI](https://github.com/ajfm88/html-css-projects/tree/master/41-verify-account-ui)                       | [Live Demo](https://50projects50days.com/projects/verify-account-ui)             |
 | 42  | [Live User Filter](https://github.com/ajfm88/html-css-projects/tree/master/42-live-user-filter)                         | [Live Demo](https://50projects50days.com/projects/live-user-filter)              |
 | 43  | [Feedback UI Design](https://github.com/ajfm88/html-css-projects/tree/master/43-feedback-ui-design)                     | [Live Demo](https://feedback-ui-design.onrender.com)                             |
 | 44  | [Custom Range Slider](https://github.com/ajfm88/html-css-projects/tree/master/44-custom-range-slider)                   | [Live Demo](https://50projects50days.com/projects/custom-range-slider)           |
